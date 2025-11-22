@@ -18,12 +18,12 @@ This tool is designed for effortless information retrieval. Users can input arti
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/rishil-fp-99/Gen-AI-News-Research-Assistant.git
 ```
 2.Navigate to the project directory:
 
 ```bash
-  cd 2_news_research_tool_project
+  cd Gen-AI-News-Research-Assistant
 ```
 3. Install the required dependencies using pip:
 
